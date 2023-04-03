@@ -1,4 +1,5 @@
 {
     "name":"ananyevs/common",
-    "type": "lib-common"
+    "type": "lib-common",
+    "version": "1.0.0"
 }
