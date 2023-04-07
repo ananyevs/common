@@ -1,4 +1,7 @@
 {
     "name":"ananyevs/common",
-    "type": "library"
+    "type": "library",
+    "require": {
+        "composer/installers": "~1.0"
+    }
 }
